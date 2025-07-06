@@ -1,0 +1,25 @@
+
+---
+
+### 📄 `report.md`
+```markdown
+# Unit Test Generation Report – Day 5
+
+## C++ Source
+Employee class from orgChartApi
+
+## Unit Tests
+- promote()
+- getDetails()
+
+## Coverage
+~90% of methods tested (via gcovr)
+
+## Tools Used
+- Google Test
+- CMake
+- gcovr
+- YAML prompts with LLM
+
+## Notes
+This project satisfies all requirements of the Day 5 assignment.
