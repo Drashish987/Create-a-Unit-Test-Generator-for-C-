@@ -13,6 +13,8 @@ This tool follows a multi-stage process, guided by YAML prompts and LLMs:
 ### ⚙️ Architecture Overview
 
 ![Architecture Diagram](./prompts/architecture.png)
+![image](https://github.com/user-attachments/assets/1ca8bd19-b46f-4de1-bfe9-8a1a11632491)
+
 
 
 ### Breakdown:
