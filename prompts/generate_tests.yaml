@@ -1,0 +1,7 @@
+task: "Generate unit tests for the given C++ class"
+rules:
+  - "Use Google Test framework"
+  - "Test 'promote' and 'getDetails' methods"
+  - "Use ASSERT/EXPECT macros"
+  - "No duplicate test cases"
+  - "Do not include main() in test file"
